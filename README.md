@@ -1,6 +1,8 @@
 # EM_Bot
 
 EM_Bot is an AI-powered chatbot designed to provide intelligent assistance in medical diagnostics by analyzing symptoms, identifying potential diseases, and suggesting the appropriate type of doctor for consultation. The bot integrates machine learning and Retrieval-Augmented Generation (RAG) techniques to ensure accurate and contextually relevant responses.
+## Video Demo Link :
+https://drive.google.com/file/d/12WBMBWeKuMAc-dnIYhXxfo5904zPRB8w/view?usp=sharing
 
 ## Features
 
